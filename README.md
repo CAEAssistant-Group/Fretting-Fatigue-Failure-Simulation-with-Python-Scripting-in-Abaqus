@@ -5,7 +5,7 @@ The primary goal of this project is to create a 2D Fretting Fatigue model in Aba
 
 ![Screenshot 2025-02-04 112858](https://github.com/user-attachments/assets/4b28c10c-c4e3-418c-861f-6acd3f809244)
 
-In this repository, a portion of the Python script files and Abaqus .inp files are included. You can review them and get ideas for solving fretting fatigue failure problems.
+In this repository, a portion of the Python script files are included. You can review them and get ideas for solving fretting fatigue failure problems.
 
 For example, the stress extracted using this method in Abaqus for the fretting fatigue failure problem is shown in the figure below.
 
