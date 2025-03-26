@@ -15,3 +15,7 @@ For example, the stress extracted using this method in Abaqus for the fretting f
 Additionally, if you would like to access the full version of the codes and the Abaqus file, along with a 98-minute tutorial video that covers the fretting fatigue failure phenomenon, related equations and theory, how to implement it in Abaqus, and a step-by-step guide on writing Python scripts, we recommend checking out the complete package, the link to which is displayed on the right side of the repository.
 
 ![image](https://github.com/user-attachments/assets/ae6dbfa8-fb5e-49de-9dfc-ee9648a77e78)
+
+It is worth noting that in some cases, the UEL subroutine is used to define custom elements in fretting and wear projects. With this in mind, if you're interested, you can check out our GitHub project on the UEL subroutine at the link below.
+
+https://github.com/CAEAssistant-Group/Abaqus-UEL-Subroutine
