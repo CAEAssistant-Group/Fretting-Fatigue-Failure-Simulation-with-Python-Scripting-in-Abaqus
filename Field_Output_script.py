@@ -1,5 +1,5 @@
-
-#      ######################################################################
+#      This is just a demo to show how the code is structured. For the full, working version, please visit our website.
+#      ####################################################################
 #      #################      CAE Assistant Company          ################
 #      ##############         www CAEassistant com              #############
 #      ###########   Copy right by CAE Assistant Company    ###############
