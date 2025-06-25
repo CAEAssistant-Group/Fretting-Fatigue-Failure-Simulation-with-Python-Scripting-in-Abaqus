@@ -16,6 +16,8 @@ Additionally, if you would like to access the full version of the codes and the 
 
 ![image](https://github.com/user-attachments/assets/ae6dbfa8-fb5e-49de-9dfc-ee9648a77e78)
 
+**ℹ️ This is just a demo to show how the code is structured. For the full, working version, please visit our website.**
+
 It is worth noting that in some cases, the UEL subroutine is used to define custom elements in fretting and wear projects. With this in mind, if you're interested, you can check out our GitHub project on the UEL subroutine at the link below.
 
 https://github.com/CAEAssistant-Group/Abaqus-UEL-Subroutine
